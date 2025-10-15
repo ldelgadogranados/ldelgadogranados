@@ -1,4 +1,4 @@
-![WhatsApp Image 2025-10-15 at 2 27 52 PM](https://github.com/user-attachments/assets/008165e4-fb9b-4910-a056-16ee6c478be0)
+![WhatsApp Image 2025-10-15 at 2 27 52 PM](https://github.com/user-attachments/assets/008165e4-fb9b-4910-a056-16ee6c478be0 = 250x250)
 ## Hi there 👋
 
 My name is Luis 😄
