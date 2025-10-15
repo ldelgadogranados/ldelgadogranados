@@ -3,7 +3,7 @@
 
 My name is Luis 😄
 
-💻 I'm PhD candidate in Chemistry & DOE CSGF Fellow @ UChicago working with Prof. Mazziotti
+💻 I'm PhD candidate in Chemistry & DOE CSGF Fellow @ UChicago working with [Prof. Mazziotti](https://mazziotti.uchicago.edu/)
 
 📚 My interest are in the field of theoretical and computational chemistry, more specifically: Open Quantum Systems (OQS), Quantum computing, and Machine Learning applied to Chemistry
 
