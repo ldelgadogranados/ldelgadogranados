@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Luis 😄
+
+💻 I'm Chemistry PhD student @ UChicago working with Prof. Mazziotti
+
+📚 My interest are in the field of theoretical and computational chemistry, more specifically: Open Quantum Systems (OQS), Quantum computing, and Machine Learning applied to Chemistry
+
+😄 Pronouns: He/Him
+
+🎨 Fun Fact: On my free time I enjoy drawing and making different types of art!
+
 <!--
 **ldelgadogranados/ldelgadogranados** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
